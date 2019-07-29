@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Latit</key>
+		<real>32.735772</real>
+		<key>Longi</key>
+		<real>-97.419968</real>
+		<key>Name</key>
+		<string>The place at WestOver hills</string>
+	</dict>
+	<dict>
+		<key>Latit</key>
+		<real>32.735463</real>
+		<key>Longi</key>
+		<real>-97.416297</real>
+		<key>Name</key>
+		<string>Apex Office</string>
+	</dict>
+	<dict>
+		<key>Latit</key>
+		<real>32.736825</real>
+		<key>Longi</key>
+		<real>-97.433088</real>
+		<key>Name</key>
+		<string>Albertson</string>
+	</dict>
+</array>
+</plist>
